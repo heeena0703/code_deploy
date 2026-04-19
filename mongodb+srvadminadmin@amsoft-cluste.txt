@@ -1,0 +1,11 @@
+mongodb+srv://admin:admin@amsoft-cluster.e9vyxwf.mongodb.net/?appName=amsoft-cluster
+
+
+http://13.61.178.149:3000/
+
+http://13.61.178.149:3000/Regpage.html
+
+
+git clone --branch main git_url 
+
+git pull
